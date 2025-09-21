@@ -39,7 +39,7 @@ model1_Accuracy95/
 
 ### 1️⃣ Clone the Repository
 bash
-git clone https://github.com/MohdAbdulRah/PlantDiseasePredicton.git
+git clone https://github.com/MohdAbdulRah/NA09_CodeStorm.git
 cd PlantDiseasePredicton/model1_Accuracy95
 
 ### 2️⃣ Create & Activate Virtual Environment (Optional but Recommended)
