@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+models/
+models/*.h5
+models/*.tflite
+*.mp3
+/tmp*
