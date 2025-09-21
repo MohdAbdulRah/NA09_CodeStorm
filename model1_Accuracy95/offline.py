@@ -38,7 +38,7 @@ def check_internet_connection():
 def initialize_genai_client():
     if GENAI_AVAILABLE and check_internet_connection():
         try:
-            client = genai.Client(api_key="AIzaSyD5vWRUZG-ksss782D_AP85YsNUHUprrPg")  # Replace with your key
+            client = genai.Client(api_key="YOUR GEMINI API KEY")  # Replace with your key
             return client
         except Exception:
             return None
@@ -366,4 +366,5 @@ elif app_mode == "Disease Recognition":
     elif st.session_state.predicted_disease and st.session_state.preferred_language and not st.session_state.is_online:
         st.markdown("---")
         st.info("💬 **Chat feature requires internet connection.** Currently showing offline precautions and medicines above.")
+
 
