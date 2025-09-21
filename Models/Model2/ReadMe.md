@@ -1,5 +1,7 @@
 # AgriVision AI - Universal Plant Disease Detector
 
+DATASET LINK :- https://www.kaggle.com/datasets/emmarex/plantdisease
+
 ## Setup
 1. Create venv & install:
    python -m venv venv
@@ -26,4 +28,5 @@ Output: `models/agri_model.tflite`
 ## Run REST API
 uvicorn scripts.fastapi_server:app --reload --host 0.0.0.0 --port 8000
 POST /predict/ (multipart file field `file`, optional `lang` param)
+
 
