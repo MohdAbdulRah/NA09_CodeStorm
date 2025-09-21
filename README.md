@@ -7,6 +7,13 @@ YOu can check the models,mobile app and web independently
 https://drive.google.com/file/d/1rRV-FuXtAMtjDfjPSk9Jv-sbEf6sa8wU/view?usp=sharing
 
 
+## Mobile App
+![mob1](https://github.com/user-attachments/assets/d5b3586c-4fbc-41cd-b75c-cff051c7b3dd)
+![mob2](https://github.com/user-attachments/assets/6b3de082-3945-4ef2-bf73-48712fa6ea8e)
+![mob3](https://github.com/user-attachments/assets/ba3bf678-ec12-47ea-bb44-5fbcbe2c6384)
+
+
+
 ### Web
 <img width="1361" height="683" alt="web1" src="https://github.com/user-attachments/assets/6217cc45-e7c1-422d-9bce-128e7c837320" />
 <img width="1366" height="690" alt="web2" src="https://github.com/user-attachments/assets/dffa180c-b581-447d-b1a5-abffd0357d70" />
