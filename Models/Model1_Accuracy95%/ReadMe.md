@@ -62,7 +62,7 @@ Optimizer: (e.g., Adam)
 
 Input Size: (e.g., 224 × 224 RGB)
 
-📈 Performance & Metrics
+### 📈 Performance & Metrics
 Include relevant metrics such as:
 
 Confusion matrix
@@ -74,7 +74,7 @@ Overall accuracy
 Maybe ROC-AUC if applicable
 
 
-⚙️ Dependencies
+### ⚙️ Dependencies
 Here are some likely Python libraries needed:
 
 text
@@ -89,6 +89,8 @@ You can install required dependencies via:
 bash
 Copy code
 pip install -r requirements.txt
+
+## Dataset Link: https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
 
 ### 💡 Future Work
 Ideas to improve or expand the model:
