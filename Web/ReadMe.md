@@ -51,7 +51,7 @@ venv\Scripts\activate       # On Windows
 pip install -r requirements.txt
 
 ### 4️⃣ Run the Streamlit App
-streamlit run app.py
+streamlit run offline.py
 
 ### 5️⃣ Open in Browser
 
