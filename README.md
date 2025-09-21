@@ -3,6 +3,8 @@
 YOu can check the models,mobile app and web independently
 
 
+## Model Output
+https://drive.google.com/file/d/1rRV-FuXtAMtjDfjPSk9Jv-sbEf6sa8wU/view?usp=sharing
 
 
 ### Web
