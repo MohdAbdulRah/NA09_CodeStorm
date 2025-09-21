@@ -1,0 +1,383 @@
+{
+    "Apple___Apple_scab": {
+      "en": "Apple - Apple scab",
+      "hi": "सेब - पपड़ी रोग",
+      "te": "ఆపిల్ - ఆపిల్ స్కాబ్",
+      "precaution": {
+        "en": "Use resistant varieties, apply fungicides, and prune infected leaves.",
+        "hi": "प्रतिरोधी किस्में उपयोग करें, फफूंदनाशक छिड़कें और संक्रमित पत्तियाँ काटें।",
+        "te": "ప్రతిరోధక రకాలు వాడండి, ఫంగిసైడ్లు వాడండి, సంక్రామిత ఆకులను కత్తిరించండి."
+      }
+    },
+    "Apple___Black_rot": {
+      "en": "Apple - Black rot",
+      "hi": "सेब - काला सड़न",
+      "te": "ఆపిల్ - బ్లాక్ రాట్",
+      "precaution": {
+        "en": "Remove mummified fruits, prune dead branches, and use fungicides.",
+        "hi": "सूखे फलों को हटाएँ, मरी शाखाएँ काटें और फफूंदनाशक का उपयोग करें।",
+        "te": "ఎండిన పండ్లు తొలగించండి, మృత కొమ్మలు కత్తిరించండి, ఫంగిసైడ్లు వాడండి."
+      }
+    },
+    "Apple___Cedar_apple_rust": {
+      "en": "Apple - Cedar apple rust",
+      "hi": "सेब - सीडर सेब का रस्ट",
+      "te": "ఆపిల్ - సీడార్ ఆపిల్ రస్ట్",
+      "precaution": {
+        "en": "Avoid planting near cedar trees, use fungicides regularly.",
+        "hi": "सीडर पेड़ों के पास न लगाएँ, नियमित फफूंदनाशक छिड़कें।",
+        "te": "సీడార్ చెట్ల దగ్గర నాటవద్దు, ఫంగిసైడ్లు తరచుగా వాడండి."
+      }
+    },
+    "Apple___healthy": {
+      "en": "Apple - Healthy",
+      "hi": "सेब - स्वस्थ",
+      "te": "ఆపిల్ - ఆరోగ్యంగా ఉంది",
+      "precaution": {
+        "en": "No action needed. Maintain proper pruning and balanced fertilization.",
+        "hi": "कोई कार्रवाई आवश्यक नहीं। उचित छंटाई और खाद का संतुलन बनाए रखें।",
+        "te": "ఎటువంటి చర్య అవసరం లేదు. సరైన కత్తిరింపు మరియు ఎరువుల సమతౌల్యం ఉంచండి."
+      }
+    },
+    "Blueberry___healthy": {
+      "en": "Blueberry - Healthy",
+      "hi": "ब्लूबेरी - स्वस्थ",
+      "te": "బ్లూబెర్రీ - ఆరోగ్యంగా ఉంది",
+      "precaution": {
+        "en": "Maintain soil acidity, irrigate properly, and prune bushes regularly.",
+        "hi": "मिट्टी की अम्लता बनाए रखें, सही सिंचाई करें और नियमित रूप से छाँटें।",
+        "te": "మట్టిలో ఆమ్లతను ఉంచండి, సరైన నీటిపారుదల చేయండి, క్రమం తప్పకుండా కత్తిరించండి."
+      }
+    },
+    "Cherry_(including_sour)___healthy": {
+      "en": "Cherry - Healthy",
+      "hi": "चेरी - स्वस्थ",
+      "te": "చెర్రీ - ఆరోగ్యంగా ఉంది",
+      "precaution": {
+        "en": "No action needed. Maintain regular irrigation and pruning.",
+        "hi": "कोई कार्रवाई आवश्यक नहीं। नियमित सिंचाई और छंटाई करें।",
+        "te": "ఎటువంటి చర్య అవసరం లేదు. క్రమం తప్పకుండా నీటిపారుదల మరియు కత్తిరింపు చేయండి."
+      }
+    },
+    "Cherry_(including_sour)___Powdery_mildew": {
+      "en": "Cherry - Powdery mildew",
+      "hi": "चेरी - पाउडरी फफूंदी",
+      "te": "చెర్రీ - పౌడరీ మిల్డ్యూ",
+      "precaution": {
+        "en": "Apply sulfur fungicides, prune affected parts, and improve air circulation.",
+        "hi": "सल्फर फफूंदनाशक लगाएँ, प्रभावित हिस्से काटें और वायु संचरण सुधारें।",
+        "te": "సల్ఫర్ ఫంగిసైడ్లు వాడండి, ప్రభావిత భాగాలను కత్తిరించండి, గాలి ప్రసరణ మెరుగుపరచండి."
+      }
+    },
+    "Corn_(maize)___Cercospora_leaf_spot_Gray_leaf_spot": {
+      "en": "Corn - Cercospora gray leaf spot",
+      "hi": "मक्का - सेरकोस्पोरा ग्रे पत्ती धब्बा",
+      "te": "మొక్కజొన్న - సెర్కోస్పోరా గ్రే లీఫ్ స్పాట్",
+      "precaution": {
+        "en": "Rotate crops, remove infected debris, and use resistant hybrids.",
+        "hi": "फसल चक्र अपनाएँ, संक्रमित अवशेष हटाएँ और प्रतिरोधी किस्में लगाएँ।",
+        "te": "పంటల మార్పిడి చేయండి, సంక్రామిత చెత్త తొలగించండి, ప్రతిరోధక రకాలు వాడండి."
+      }
+    },
+    "Corn_(maize)___Common_rust_": {
+      "en": "Corn - Common rust",
+      "hi": "मक्का - सामान्य रस्ट",
+      "te": "మొక్కజొన్న - కామన్ రస్ట్",
+      "precaution": {
+        "en": "Plant resistant varieties and spray fungicides at early stage.",
+        "hi": "प्रतिरोधी किस्में लगाएँ और शुरुआती अवस्था में फफूंदनाशक छिड़कें।",
+        "te": "ప్రతిరోధక రకాలు నాటండి, ప్రారంభ దశలోనే ఫంగిసైడ్లు వాడండి."
+      }
+    },
+    "Corn_(maize)___healthy": {
+      "en": "Corn - Healthy",
+      "hi": "मक्का - स्वस्थ",
+      "te": "మొక్కజొన్న - ఆరోగ్యంగా ఉంది",
+      "precaution": {
+        "en": "No action needed. Maintain timely irrigation and fertilizer balance.",
+        "hi": "कोई कार्रवाई आवश्यक नहीं। समय पर सिंचाई और उर्वरक संतुलन बनाए रखें।",
+        "te": "ఎటువంటి చర్య అవసరం లేదు. సమయానికి నీటిపారుదల మరియు ఎరువుల సమతౌల్యం ఉంచండి."
+      }
+    },
+    "Corn_(maize)___Northern_Leaf_Blight": {
+      "en": "Corn - Northern leaf blight",
+      "hi": "मक्का - उत्तरी पत्ती झुलसा",
+      "te": "మొక్కజొన్న - నార్తర్న్ లీఫ్ బ్లైట్",
+      "precaution": {
+        "en": "Use resistant varieties, rotate crops, and apply fungicides.",
+        "hi": "प्रतिरोधी किस्में लगाएँ, फसल चक्र अपनाएँ और फफूंदनाशक छिड़कें।",
+        "te": "ప్రతిరోధక రకాలు నాటండి, పంటల మార్పిడి చేయండి, ఫంగిసైడ్లు వాడండి."
+      }
+    },
+    "Grape___Black_rot": {
+      "en": "Grape - Black rot",
+      "hi": "अंगूर - ब्लैक रॉट",
+      "te": "ద్రాక్ష - బ్లాక్ రాట్",
+      "precaution": {
+        "en": "Remove mummified berries, prune infected shoots, and apply fungicides.",
+        "hi": "सूखे अंगूर हटाएँ, संक्रमित टहनियाँ काटें और फफूंदनाशक छिड़कें।",
+        "te": "ఎండిన ద్రాక్ష తొలగించండి, సంక్రామిత కొమ్మలు కత్తిరించండి, ఫంగిసైడ్లు వాడండి."
+      }
+    },
+    "Grape___Esca_(Black_Measles)": {
+      "en": "Grape - Esca (Black Measles)",
+      "hi": "अंगूर - एस्का (ब्लैक मीज़ल्स)",
+      "te": "ద్రాక్ష - ఎస్కా (బ్లాక్ మీజిల్స్)",
+      "precaution": {
+        "en": "Remove infected vines, avoid stress, and apply fungicide treatments.",
+        "hi": "संक्रमित बेलें हटाएँ, तनाव से बचें और फफूंदनाशक उपचार करें।",
+        "te": "సంక్రామిత ద్రాక్ష తీగలు తొలగించండి, ఒత్తిడి నివారించండి, ఫంగిసైడ్ చికిత్సలు చేయండి."
+      }
+    },
+    "Grape___healthy": {
+      "en": "Grape - Healthy",
+      "hi": "अंगूर - स्वस्थ",
+      "te": "ద్రాక్ష - ఆరోగ్యంగా ఉంది",
+      "precaution": {
+        "en": "No action needed. Maintain pruning and irrigation balance.",
+        "hi": "कोई कार्रवाई आवश्यक नहीं। छंटाई और सिंचाई का संतुलन बनाए रखें।",
+        "te": "ఎటువంటి చర్య అవసరం లేదు. కత్తిరింపు మరియు నీటి సమతౌల్యం ఉంచండి."
+      }
+    },
+    "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+      "en": "Grape - Leaf blight (Isariopsis leaf spot)",
+      "hi": "अंगूर - पत्ती झुलसा (इसारियोप्सिस धब्बा)",
+      "te": "ద్రాక్ష - ఆకుల బ్లైట్ (ఇసారియోప్సిస్ స్పాట్)",
+      "precaution": {
+        "en": "Use fungicides, remove infected leaves, and maintain air circulation.",
+        "hi": "फफूंदनाशक लगाएँ, संक्रमित पत्तियाँ हटाएँ और वायु संचरण बनाए रखें।",
+        "te": "ఫంగిసైడ్లు వాడండి, సంక్రామిత ఆకులు తొలగించండి, గాలి ప్రసరణ ఉంచండి."
+      }
+    },
+    "Orange___Haunglongbing_(Citrus_greening)": {
+      "en": "Orange - Citrus greening (HLB)",
+      "hi": "संतरा - साइट्रस ग्रीनिंग",
+      "te": "నారింజ - సిట్రస్ గ్రీనింగ్",
+      "precaution": {
+        "en": "Control psyllid insect, remove infected trees, and use resistant rootstocks.",
+        "hi": "साइलीड कीट नियंत्रित करें, संक्रमित पेड़ हटाएँ और प्रतिरोधी रूटस्टॉक लगाएँ।",
+        "te": "సైలిడ్ పురుగు నియంత్రించండి, సంక్రామిత చెట్లు తొలగించండి, ప్రతిరోధక రూట్‌స్టాక్ వాడండి."
+      }
+    },
+    "Peach___Bacterial_spot": {
+      "en": "Peach - Bacterial spot",
+      "hi": "आड़ू - जीवाणु धब्बा",
+      "te": "పీచ్ - బ్యాక్టీరియల్ స్పాట్",
+      "precaution": {
+        "en": "Use copper sprays, avoid overhead irrigation, and remove infected fruits.",
+        "hi": "कॉपर स्प्रे करें, ऊपर से सिंचाई न करें, संक्रमित फल हटाएँ।",
+        "te": "కాపర్ స్ప్రే చేయండి, పై నుండి నీటిపారుదల నివారించండి, సంక్రామిత పండ్లు తొలగించండి."
+      }
+    },
+    "Peach___healthy": {
+      "en": "Peach - Healthy",
+      "hi": "आड़ू - स्वस्थ",
+      "te": "పీచ్ - ఆరోగ్యంగా ఉంది",
+      "precaution": {
+        "en": "No action needed. Maintain irrigation and pruning balance.",
+        "hi": "कोई कार्रवाई आवश्यक नहीं। सिंचाई और छंटाई का संतुलन बनाए रखें।",
+        "te": "ఎటువంటి చర్య అవసరం లేదు. నీటి సరఫరా మరియు కత్తిరింపు సమతౌల్యం ఉంచండి."
+      }
+    },
+    "Pepper__bell___Bacterial_spot": {
+      "en": "Pepper bell - Bacterial spot",
+      "hi": "शिमला मिर्च - जीवाणु धब्बा",
+      "te": "క్యాప్సికం - బ్యాక్టీరియల్ స్పాట్",
+      "precaution": {
+        "en": "Use copper-based fungicides, avoid overhead irrigation, and remove infected leaves.",
+        "hi": "तांबा आधारित फफूंदनाशक का उपयोग करें, ऊपर से सिंचाई न करें, और संक्रमित पत्तियाँ हटाएँ।",
+        "te": "కాపర్ ఆధారిత ఫంగిసైడ్లు వాడండి, పై నుండి నీటిపారుదల నివారించండి, సంక్రామిత ఆకులను తొలగించండి."
+      }
+    },
+    "Pepper__bell___healthy": {
+      "en": "Pepper bell - Healthy",
+      "hi": "शिमला मिर्च - स्वस्थ",
+      "te": "క్యాప్సికం - ఆరోగ్యంగా ఉంది",
+      "precaution": {
+        "en": "No action needed. Maintain good irrigation and nutrient balance.",
+        "hi": "कोई कार्रवाई आवश्यक नहीं। सिंचाई और पोषक तत्वों का संतुलन बनाए रखें।",
+        "te": "ఎటువంటి చర్య అవసరం లేదు. నీటి సరఫరా మరియు పోషక సమతౌల్యం ఉంచండి."
+      }
+    },
+    "Potato___Early_blight": {
+      "en": "Potato - Early blight",
+      "hi": "आलू - प्रारम्भिक झुलसा",
+      "te": "బంగాళదుంప - ప్రారంభ బ్లైట్",
+      "precaution": {
+        "en": "Apply fungicides like Mancozeb, remove infected leaves, and rotate crops.",
+        "hi": "मैनकोजेब जैसे फफूंदनाशक का छिड़काव करें, संक्रमित पत्तियाँ हटाएँ, और फसल चक्र अपनाएँ।",
+        "te": "మాంకోజెబ్ వంటి ఫంగిసైడ్లు వాడండి, సంక్రామిత ఆకులు తొలగించండి, పంటల మార్పిడి చేయండి."
+      }
+    },
+    "Potato___Late_blight": {
+      "en": "Potato - Late blight",
+      "hi": "आलू - अन्तिम झुलसा",
+      "te": "బంగాళదుంప - లేట్ బ్లైట్",
+      "precaution": {
+        "en": "Apply fungicides, ensure good drainage, and avoid excess moisture.",
+        "hi": "फफूंदनाशक का छिड़काव करें, खेत में जल निकासी सही रखें, अतिरिक्त नमी से बचें।",
+        "te": "ఫంగిసైడ్లు వాడండి, నీటి పారుదల మెరుగ్గా ఉంచండి, అధిక తేమ నివారించండి."
+      }
+    },
+    "Potato___healthy": {
+      "en": "Potato - Healthy",
+      "hi": "आलू - स्वस्थ",
+      "te": "బంగాళదుంప - ఆరోగ్యంగా ఉంది",
+      "precaution": {
+        "en": "No action needed. Maintain balanced fertilization and irrigation.",
+        "hi": "कोई कार्रवाई आवश्यक नहीं। उर्वरक और सिंचाई का संतुलन बनाए रखें।",
+        "te": "ఎటువంటి చర్య అవసరం లేదు. ఎరువుల మరియు నీటి సమతౌల్యం ఉంచండి."
+      }
+    },
+    "Raspberry___healthy": {
+      "en": "Raspberry - Healthy",
+      "hi": "रास्पबेरी - स्वस्थ",
+      "te": "రాస్ప్‌బెర్రీ - ఆరోగ్యంగా ఉంది",
+      "precaution": {
+        "en": "No action needed. Maintain irrigation and pruning schedule.",
+        "hi": "कोई कार्रवाई आवश्यक नहीं। सिंचाई और छंटाई का समय बनाए रखें।",
+        "te": "ఎటువంటి చర్య అవసరం లేదు. నీటి సరఫరా మరియు కత్తిరింపు సమయం ఉంచండి."
+      }
+    },
+    "Soybean___healthy": {
+      "en": "Soybean - Healthy",
+      "hi": "सोयाबीन - स्वस्थ",
+      "te": "సోయాబీన్ - ఆరోగ్యంగా ఉంది",
+      "precaution": {
+        "en": "No action needed. Maintain proper soil fertility and irrigation.",
+        "hi": "कोई कार्रवाई आवश्यक नहीं। मिट्टी की उर्वरता और सिंचाई सही रखें।",
+        "te": "ఎటువంటి చర్య అవసరం లేదు. మట్టి సారవంతం మరియు నీటి సరఫరా ఉంచండి."
+      }
+    },
+    "Squash___Powdery_mildew": {
+      "en": "Squash - Powdery mildew",
+      "hi": "कद्दू - पाउडरी फफूंदी",
+      "te": "స్క్వాష్ - పౌడరీ మిల్డ్యూ",
+      "precaution": {
+        "en": "Use resistant varieties, apply sulfur sprays, and improve air circulation.",
+        "hi": "प्रतिरोधी किस्में लगाएँ, सल्फर स्प्रे करें और वायु संचरण सुधारें।",
+        "te": "ప్రతిరోధక రకాలు వాడండి, సల్ఫర్ స్ప్రే చేయండి, గాలి ప్రసరణ మెరుగుపరచండి."
+      }
+    },
+    "Strawberry___healthy": {
+      "en": "Strawberry - Healthy",
+      "hi": "स्ट्रॉबेरी - स्वस्थ",
+      "te": "స్ట్రాబెర్రీ - ఆరోగ్యంగా ఉంది",
+      "precaution": {
+        "en": "No action needed. Maintain soil fertility and irrigation balance.",
+        "hi": "कोई कार्रवाई आवश्यक नहीं। मिट्टी की उर्वरता और सिंचाई संतुलन बनाए रखें।",
+        "te": "ఎటువంటి చర్య అవసరం లేదు. మట్టి సారవంతం మరియు నీటి సమతౌల్యం ఉంచండి."
+      }
+    },
+    "Strawberry___Leaf_scorch": {
+      "en": "Strawberry - Leaf scorch",
+      "hi": "स्ट्रॉबेरी - पत्ती झुलसा",
+      "te": "స్ట్రాబెర్రీ - ఆకుల ఎండిపోవడం",
+      "precaution": {
+        "en": "Use drip irrigation, remove infected leaves, and apply fungicides.",
+        "hi": "ड्रिप सिंचाई करें, संक्रमित पत्तियाँ हटाएँ, और फफूंदनाशक लगाएँ।",
+        "te": "డ్రిప్ నీటిపారుదల చేయండి, సంక్రామిత ఆకులు తొలగించండి, ఫంగిసైడ్లు వాడండి."
+      }
+    },
+    "Tomato___Bacterial_spot": {
+      "en": "Tomato - Bacterial spot",
+      "hi": "टमाटर - जीवाणु धब्बा",
+      "te": "టమోటా - బ్యాక్టీరియల్ స్పాట్",
+      "precaution": {
+        "en": "Use disease-free seeds, copper sprays, and avoid overhead watering.",
+        "hi": "रोग-मुक्त बीज का उपयोग करें, कॉपर स्प्रे करें, और ऊपर से पानी न दें।",
+        "te": "రోగ రహిత విత్తనాలు వాడండి, కాపర్ స్ప్రే చేయండి, పై నుండి నీటి సరఫరా నివారించండి."
+      }
+    },
+    "Tomato___Early_blight": {
+      "en": "Tomato - Early blight",
+      "hi": "टमाटर - प्रारम्भिक झुलसा",
+      "te": "టమోటా - ప్రారంభ బ్లైట్",
+      "precaution": {
+        "en": "Spray fungicides like Chlorothalonil, remove old infected leaves.",
+        "hi": "क्लोरोथालोनिल जैसे फफूंदनाशक का छिड़काव करें, पुरानी संक्रमित पत्तियाँ हटाएँ।",
+        "te": "క్లోరోథాలోనిల్ వంటి ఫంగిసైడ్లు వాడండి, పాత సంక్రామిత ఆకులు తొలగించండి."
+      }
+    },
+    "Tomato___Late_blight": {
+      "en": "Tomato - Late blight",
+      "hi": "टमाटर - अन्तिम झुलसा",
+      "te": "టమోటా - లేట్ బ్లైట్",
+      "precaution": {
+        "en": "Use fungicides, improve air circulation, and avoid waterlogging.",
+        "hi": "फफूंदनाशक का उपयोग करें, वायु संचरण बढ़ाएँ, और पानी भराव से बचें।",
+        "te": "ఫంగిసైడ్లు వాడండి, గాలి ప్రసరణ మెరుగ్గా ఉంచండి, నీరు నిల్వ నివారించండి."
+      }
+    },
+    "Tomato___Leaf_Mold": {
+      "en": "Tomato - Leaf mold",
+      "hi": "टमाटर - पत्ती पर फफूंद",
+      "te": "టమోటా - ఆకుల మీద బూజు",
+      "precaution": {
+        "en": "Use resistant varieties, apply fungicide, and ensure good ventilation.",
+        "hi": "प्रतिरोधी किस्मों का उपयोग करें, फफूंदनाशक का छिड़काव करें, और वेंटिलेशन सही रखें।",
+        "te": "ప్రతిరోధక రకాల వాడండి, ఫంగిసైడ్లు వాడండి, మంచి గాలి ప్రసరణ ఉంచండి."
+      }
+    },
+    "Tomato___Septoria_leaf_spot": {
+      "en": "Tomato - Septoria leaf spot",
+      "hi": "टमाटर - सेप्टोरिया पत्ती धब्बा",
+      "te": "టమోటా - సెప్టోరియా ఆకు మచ్చలు",
+      "precaution": {
+        "en": "Remove infected leaves, rotate crops, and apply fungicide.",
+        "hi": "संक्रमित पत्तियाँ हटाएँ, फसल चक्र अपनाएँ, और फफूंदनाशक का उपयोग करें।",
+        "te": "సంక్రామిత ఆకులు తొలగించండి, పంటల మార్పిడి చేయండి, ఫంగిసైడ్లు వాడండి."
+      }
+    },
+    "Tomato___Spider_mites_Two-spotted_spider_mite": {
+      "en": "Tomato - Spider mites (two-spotted)",
+      "hi": "टमाटर - मकड़ी कीट (दो धब्बे)",
+      "te": "టమోటా - స్పైడర్ మైట్స్ (రెండు మచ్చలు)",
+      "precaution": {
+        "en": "Use insecticidal soap or neem oil, and increase humidity.",
+        "hi": "कीटनाशी साबुन या नीम का तेल उपयोग करें, और नमी बढ़ाएँ।",
+        "te": "ఇన్సెక్టిసైడల్ సోప్ లేదా వేపనూనె వాడండి, తేమ పెంచండి."
+      }
+    },
+    "Tomato___Target_Spot": {
+      "en": "Tomato - Target spot",
+      "hi": "टमाटर - निशाना धब्बा",
+      "te": "టమోటా - టార్గెట్ స్పాట్",
+      "precaution": {
+        "en": "Spray fungicides, avoid dense planting, and remove infected leaves.",
+        "hi": "फफूंदनाशक छिड़कें, बहुत घनी बुवाई से बचें, और संक्रमित पत्तियाँ हटाएँ।",
+        "te": "ఫంగిసైడ్లు వాడండి, దట్టమైన నాట్లు నివారించండి, సంక్రామిత ఆకులు తొలగించండి."
+      }
+    },
+    "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+      "en": "Tomato - Yellow leaf curl virus",
+      "hi": "टमाटर - येलो लीफ कर्ल वायरस",
+      "te": "టమోటా - యెల్లో లీఫ్ కర్ల్ వైరస్",
+      "precaution": {
+        "en": "Control whiteflies, use resistant varieties, and remove infected plants.",
+        "hi": "सफेद मक्खियों को नियंत्रित करें, प्रतिरोधी किस्मों का उपयोग करें, और संक्रमित पौधों को हटाएँ।",
+        "te": "వైట్‌ఫ్లై నియంత్రించండి, ప్రతిరోధక రకాలు వాడండి, సంక్రామిత మొక్కలను తొలగించండి."
+      }
+    },
+    "Tomato___Tomato_mosaic_virus": {
+      "en": "Tomato - Mosaic virus",
+      "hi": "टमाटर - मोज़ेक वायरस",
+      "te": "టమోటా - మోసైక్ వైరస్",
+      "precaution": {
+        "en": "Use virus-free seeds, disinfect tools, and avoid handling plants when wet.",
+        "hi": "वायरस-मुक्त बीज का उपयोग करें, औज़ारों को कीटाणुरहित करें, और गीले पौधों को न छुएँ।",
+        "te": "వైరస్ రహిత విత్తనాలు వాడండి, పరికరాలను శుభ్రపరచండి, తడి మొక్కలను తాకవద్దు."
+      }
+    },
+    "Tomato___healthy": {
+      "en": "Tomato - Healthy",
+      "hi": "टमाटर - स्वस्थ",
+      "te": "టమోటా - ఆరోగ్యంగా ఉంది",
+      "precaution": {
+        "en": "No action needed. Maintain proper irrigation and nutrition.",
+        "hi": "कोई कार्रवाई आवश्यक नहीं। सिंचाई और पोषण का संतुलन बनाए रखें।",
+        "te": "ఎటువంటి చర్య అవసరం లేదు. సరైన నీటి సరఫరా మరియు పోషణ ఉంచండి."
+      }
+    }
+  }
+  
