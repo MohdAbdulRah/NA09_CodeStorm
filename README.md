@@ -16,4 +16,8 @@ YOu can check the models,mobile app and web independently
 <img width="1366" height="689" alt="web9" src="https://github.com/user-attachments/assets/ee93dd39-7e2c-48d4-855a-e8bce5c7b4ee" />
 <img width="1366" height="692" alt="web10" src="https://github.com/user-attachments/assets/5fc2b64b-dea7-40f5-a1cb-712bc17b7524" />
 <img width="1366" height="687" alt="web11" src="https://github.com/user-attachments/assets/48116198-c6d7-49a1-94ab-07d88e81ad5d" />
+We can change the language by clicking on change language button
 <img width="1363" height="678" alt="web12" src="https://github.com/user-attachments/assets/d4c3f307-83cd-413f-8c1e-1761f03282c2" />
+<img width="1366" height="685" alt="web13" src="https://github.com/user-attachments/assets/b47a8641-2ca6-455c-85c5-e8efc5f82c4f" />
+<img width="1366" height="691" alt="web14" src="https://github.com/user-attachments/assets/6e68c15e-eaf4-4377-9a67-ed2d32a7298d" />
+<img width="1364" height="678" alt="web15" src="https://github.com/user-attachments/assets/7c908f19-2f1f-43ed-86f9-9b6c5e73067f" />
